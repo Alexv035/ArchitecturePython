@@ -1,2 +1,2 @@
 # ArchitecturePython
-Architecture Python
+Architecture and design patterns in Python
